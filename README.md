@@ -42,11 +42,11 @@ Un comedor automatizado es excelente ya que el dueño debe trabajar, salir de ca
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  1 |  Definir el mejor entorno para simular el circuito            |  alta         | 2 d        | verificando que existan todos los componentes en el simulador.          |     Miriam        |
-|  2 | Armar el circuito en el simulador seleccionado                   | media          | 3 d           |  realizando capturas del simulador, para evidencia.             |  Miriam           |
-|  3 |  Realizar pruebas de programacion en el simulador                   |    media       |    3 d        |  Guardar pruebas , evidencia.             |       Miriam      |
-|  4 |   Buscar material para el diseño del prototipo        |  baja         | 2 s        | investigando la resistencia y facilidad de adquirir el material   |     Miriam        |
-|  5 |  Conseguir los componentes del hardware         |  media        | 2 s        | tomando fotos de los componentes ibtenidos para evidencia.  |     Miriam        |
+|  1 |  Definir el mejor entorno para simular el circuito  |  Alta       | 2 d | Verificando que existan todos los componentes en el simulador.  |   Miriam    |
+|  2 | Armar el circuito en el simulador seleccionado   | Media         | 3 d   |  Realizando capturas del simulador, para evidencia.       |  Miriam           |
+|  3 |  Realizar pruebas de programacion en el simulador       |    Media       |    3 d        |  Guardar pruebas , evidencia.       |     Miriam      |
+|  4 |   Buscar material para el diseño del prototipo    |  Baja     | 2 sm   | Investigando la resistencia y facilidad de adquirir el material   |     Miriam     |
+|  5 |  Conseguir los componentes del hardware         |  Media        | 2 sm      | Tomando fotos de los componentes ibtenidos para evidencia.  |     Miriam     |
 
 
 
